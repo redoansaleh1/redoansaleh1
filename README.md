@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @redoansaleh1
+- 👀 I’m interested in python,web devlopment,AI,Robotics,problem Solving,Network Programming,OS low level programming.
+- 🌱 I’m currently learning Full Stack web devlopment
+- My E-mail origamimaster366@gmail.com
